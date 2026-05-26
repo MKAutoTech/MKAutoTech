@@ -1,6 +1,6 @@
-# Hi 👋 I'm Mustafa Mahmoud KarmAllah
+# Hi 👋 I'm Mustafa M.KarmAllah
 
-Mechatronics & Autotronics Engineering Student
+Mechatronics & Autotronics senior Engineering Student
 
 ## About Me
 ⚙️ Passionate about Embedded Systems  
